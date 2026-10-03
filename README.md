@@ -41,6 +41,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [PetNanny](https://www.petnanny.net/) - Connects pet owners with professional pet sitters and offers services like pet sitting, dog walking, and overnight care.
 - [Petsy](https://www.petsy.pl/) - Connects pet owners with professional pet sitters and offers services like pet sitting, dog walking, and overnight care.
 - [hiPets](https://hipets.com/) - A platform that provides a wide range of services, including vet care, grooming, pet sitting, and more.
+- [Woofians](https://woofians.com/) - An interactive map directory for finding local dog parks, vets, groomers, walkers, stays, and pet shops.
 
 ## Veterinary
 
