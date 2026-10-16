@@ -126,7 +126,11 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Shelter
 
+- [Petfinnly](https://petfinnly.com/) - A free directory where cat and kitten shelters and rescues can list and claim their organization's profile to reach adopters.
+
 ## Adoption
+
+- [Petfinnly](https://petfinnly.com/) - A free marketplace connecting cat and kitten adopters directly with shelters and rescues, alongside breeder listings.
 
 ## Trainer
 
