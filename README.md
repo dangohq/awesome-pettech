@@ -150,3 +150,5 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Tracking
 
 ## API
+
+- [PetCremation](https://petcremation.fyi) - A free pet crematory directory with a keyless REST API (OpenAPI spec included) and an MCP endpoint, listing providers by city with their published services and fees.
